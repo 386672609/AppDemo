@@ -26,7 +26,7 @@
             android:gravity="center"
             android:text=" 注册"
             android:textColor="@drawable/selector5"
-            android:textSize="25sp"/>
+            android:textSize="26sp"/>
     </LinearLayout>
 
     <ScrollView
@@ -232,7 +232,7 @@
                 android:enabled="false"
                 android:text="注册"
                 android:textColor="#ffffff"
-                android:textSize="25sp"/>
+                android:textSize="26sp"/>
 
             <LinearLayout
                 android:id="@+id/ll6"
